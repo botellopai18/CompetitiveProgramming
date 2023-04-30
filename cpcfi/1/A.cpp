@@ -1,8 +1,5 @@
 //https://codeforces.com/group/qhNeDJ317x/contest/428227/problem/A
 #include <bits/stdc++.h>
-#include <iostream>
-#include <string>
-#include <vector>
 using namespace std;
 typedef long long ll;
 
