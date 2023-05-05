@@ -9,4 +9,5 @@ int main(){
     }else{
         cout<<(m/2)+(n-1)*n/2<<endl;
     }
+    
 }
